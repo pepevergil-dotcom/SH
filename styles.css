@@ -1,0 +1,29 @@
+body {background-color: #000000;
+}
+body,td,th {font-family: Geneva, Arial, Helvetica, sans-serif; color: #CCCCCC;
+}
+a {font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold;
+}
+a:link {text-decoration: none; color: #999999;
+}
+a:visited {text-decoration: none; color: #999999;
+}
+a:hover {text-decoration: none; color: #FFFFFF;
+}
+a:active {text-decoration: none; color: #999999;
+}
+.section {font-size: 27px; font-weight: bold;
+}
+.point {font-size: 22px; font-weight: bold;
+}
+.point-note {font-size: 22px;
+}
+.point-s18 {font-size: 18px;
+}
+.note {font-weight: bold; color: #FF6600;
+}
+.question {font-style: italic; font-weight: bold;
+}
+.normal-small {font-size: 12px;
+}
+.dark-small {font-size: 12px; color: #999999;
